@@ -1,4 +1,4 @@
-# The Human and Ecosystem Resilience and Sustainability (HERS) Lab 
+# The Human and Ecosystem Resilience and Sustainability (HERS) Lab
 
 ## About Our Lab
 The Data Analysis Unit provides the rigorous statistical backbone for ecological research, monitoring, and high-stakes decision-making. We specialize in transforming complex, multi-scale environmental data into defensible insights that bridge the gap between field ecology and conservation policy. 
@@ -18,4 +18,4 @@ The analysis team collaborates with the National Park Service Inventory and Moni
 
 ## Accessing Our Repositories
 All repositories in this organization are private.  
-To request access, please contact our team lead, Tom Rodhouse  at tom.rodhouse@osucascades.edu
+To request access, please contact our director, Matt Shinderman (matt.shinderman@osucascades.edu) or unit lead, Tom Rodhouse (tom.rodhouse@osucascades.edu)
